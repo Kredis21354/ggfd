@@ -4,5 +4,7 @@ class Cat:
   name = "Zorro"
   say = "Meow!"
 
+my_cat = Cat
 
+print(my_cat.say)
   
